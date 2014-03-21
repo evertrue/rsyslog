@@ -1,6 +1,4 @@
-source 'https://berks.evertrue.com'
-source 'https://api.berkshelf.com'
-
+source 'http://api.berkshelf.com'
 metadata
 
 group :integration do
